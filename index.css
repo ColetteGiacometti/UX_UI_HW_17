@@ -1,7 +1,6 @@
 
 /*can I have 2 fonts here? */
 .body {
-    font-family: 'Montserrat', sans-serif;
     font-family: 'Heebo', sans-serif;
 }
 /*header */
@@ -35,7 +34,6 @@ ul {
 
 /*hero section  */
 
-/*had to put family font here - on top of css didn't work*/
 .heroImg {
     height: 600px;
     padding-left: 5%;
@@ -51,7 +49,7 @@ h1 {
     font-weight: normal;
     margin-bottom: 2%;
 }
-/*double class didm't work*/
+
 .right {
     float:right;
     padding-left:15px;
